@@ -1,0 +1,12 @@
+main {
+  display: flex;
+  transform: rotate(180deg);
+}
+
+.bar_style {
+  width: 30px;
+  height: 200px;
+  border: 1px solid black;
+  background-image: linear-gradient(rgb(141, 121, 241), rgb(217, 245, 77));
+  margin-right: 2px;
+}
