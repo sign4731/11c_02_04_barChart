@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", readArray);
 
 let arr = ["20", "2", "3", "4", "5", "6", "7", "8", "1", "2", "3", "4", "5", "6", "7", "8", "1", "2", "3", "32", "5", "6", "7", "8", "1", "2", "3", "4", "5", "6", "7", "8", "1", "2", "3", "4", "5", "6", "7", "20"];
 let myRandom;
+
 function readArray() {
   console.log("Reading array");
   console.log(arr);
